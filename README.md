@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/jayesh1306/count.svg)
 
 ### My name is Jayesh Prajapati.
 
