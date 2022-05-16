@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/jayesh1306/count.svg)
+![counter](https://jayesh1306.m.pipedream.net)
 
 ### My name is Jayesh Prajapati.
 
