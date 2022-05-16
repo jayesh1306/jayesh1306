@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Views](https://komarev.com/ghpvc/?username=jayesh1306&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=jayesh1306&color=2E5A88)
 
 
 ### My name is Jayesh Prajapati.
